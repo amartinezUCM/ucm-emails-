@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>Unión de Crédito Mexicano</title>
+  <style type="text/css">
+    @media only screen and (max-width: 620px) {
+      .container { width: 100% !important; }
+      .mobile-padding { padding-left: 24px !important; padding-right: 24px !important; }
+      .benefit-cell { display: block !important; width: 100% !important; padding: 0 0 16px !important; }
+      .benefit-cell-last { padding-bottom: 0 !important; }
+      .button-link { display: block !important; }
+    }
+  </style>
+</head>
+<body style="margin:0; padding:0; background-color:#f4f2ef; font-family:Poppins, Arial, Helvetica, sans-serif; color:#333333;">
+  <center style="width:100%; background-color:#f4f2ef;">
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; background-color:#f4f2ef;">
+      <tr>
+        <td align="center" style="padding:24px 12px;">
+          <table role="presentation" class="container" width="600" cellspacing="0" cellpadding="0" border="0" style="width:600px; max-width:600px; background-color:#ffffff;">
+            <tr>
+              <td align="center" style="padding:28px 32px 24px; border-top:7px solid #971B2E;">
+                <p style="margin:0; color:#971B2E; font-size:13px; font-weight:700; letter-spacing:1.8px; line-height:18px; text-transform:uppercase;">Unión de Crédito</p>
+                <p style="margin:2px 0 0; color:#66666d; font-size:24px; font-weight:700; letter-spacing:0.2px; line-height:30px;">Mexicano</p>
+                <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin:14px auto 0;">
+                  <tr>
+                    <td style="width:34px; height:3px; background-color:#CAA151; font-size:0; line-height:0;">&nbsp;</td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+        <!-- Reemplaza este bloque por una imagen principal con URL absoluta cuando esté disponible. -->
+        <tr>
+          <td align="center" style="padding:0; background-color:#971B2E;">
+            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%;">
+              <tr>
+                <td class="mobile-padding" align="center" style="padding:38px 54px; background-color:#971B2E;">
+                  <p style="margin:0; color:#ffffff; font-size:12px; font-weight:700; letter-spacing:1.4px; line-height:18px; text-transform:uppercase;">Acompañamiento financiero</p>
+                  <p style="margin:10px 0 0; color:#ffffff; font-size:27px; font-weight:700; line-height:34px;">Decisiones con visión de futuro</p>
+                  <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin:18px auto 0;">
+                    <tr>
+                      <td style="width:42px; height:3px; background-color:#CAA151; font-size:0; line-height:0;">&nbsp;</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="mobile-padding" style="padding:36px 54px 18px;">
+            <p style="margin:0 0 18px; color:#333333; font-size:18px; font-weight:600; line-height:27px;">Hola, [Nombre]</p>
+            <p style="margin:0; color:#4a4a4a; font-size:16px; line-height:25px;">En Unión de Crédito Mexicano construimos relaciones financieras de largo plazo. Acompañamos a nuestros socios con atención cercana, soluciones responsables y una visión enfocada en proteger su patrimonio e impulsar sus objetivos.</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="mobile-padding" style="padding:16px 54px 10px;">
+            <p style="margin:0; color:#971B2E; font-size:20px; font-weight:700; line-height:28px;">Una relación que se adapta a ti</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="mobile-padding" style="padding:14px 54px 20px;">
+            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%;">
+              <tr>
+                <td class="benefit-cell" valign="top" width="33.33%" style="width:33.33%; padding:0 10px 0 0;">
+                  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; background-color:#f8f5f0;">
+                    <tr>
+                      <td style="padding:22px 17px;">
+                        <p style="margin:0 0 10px; color:#CAA151; font-size:22px; font-weight:700; line-height:24px;">01</p>
+                        <p style="margin:0 0 7px; color:#971B2E; font-size:15px; font-weight:700; line-height:21px;">Atención personalizada</p>
+                        <p style="margin:0; color:#555555; font-size:13px; line-height:20px;">Escuchamos tu contexto y objetivos para orientarte con cercanía.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="benefit-cell" valign="top" width="33.33%" style="width:33.33%; padding:0 5px;">
+                  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; background-color:#f8f5f0;">
+                    <tr>
+                      <td style="padding:22px 17px;">
+                        <p style="margin:0 0 10px; color:#CAA151; font-size:22px; font-weight:700; line-height:24px;">02</p>
+                        <p style="margin:0 0 7px; color:#971B2E; font-size:15px; font-weight:700; line-height:21px;">Soluciones a tu medida</p>
+                        <p style="margin:0; color:#555555; font-size:13px; line-height:20px;">Analizamos alternativas que respondan a tus necesidades financieras.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="benefit-cell benefit-cell-last" valign="top" width="33.33%" style="width:33.33%; padding:0 0 0 10px;">
+                  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; background-color:#f8f5f0;">
+                    <tr>
+                      <td style="padding:22px 17px;">
+                        <p style="margin:0 0 10px; color:#CAA151; font-size:22px; font-weight:700; line-height:24px;">03</p>
+                        <p style="margin:0 0 7px; color:#971B2E; font-size:15px; font-weight:700; line-height:21px;">Acompañamiento profesional</p>
+                        <p style="margin:0; color:#555555; font-size:13px; line-height:20px;">Construimos confianza para tomar decisiones con visión de futuro.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center" class="mobile-padding" style="padding:22px 54px 40px;">
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td align="center" bgcolor="#971B2E" style="border-radius:2px;">
+                  <a class="button-link" href="https://script.google.com/macros/s/AKfycbxGrWav7hLEe8m7P9mG4m6dd-F7t5bj9NmJ-uNgAFL9mnNSyEEr5n020vTfJ5ZsDONk/exec" target="_blank" style="display:inline-block; padding:15px 34px; color:#ffffff; font-size:15px; font-weight:700; line-height:20px; text-align:center; text-decoration:none;">Conoce más</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="mobile-padding" style="padding:28px 54px; background-color:#f8f5f0; border-top:1px solid #e9e3da;">
+            <p style="margin:0 0 13px; color:#971B2E; font-size:16px; font-weight:700; line-height:23px;">Estamos para acompañarte</p>
+            <p style="margin:0; color:#555555; font-size:14px; line-height:23px;">
+              <a href="https://wa.me/5529401288/?text=Hola,%20quiero%20recibir%20informaci%C3%B3n%20sobre%20la%20Inversi%C3%B3n%20a%20Plazo%20Fijo%20de%20UCM%20y%20conocer%20las%20opciones%20disponibles%20para%20mi%20patrimonio." target="_blank" style="color:#971B2E; font-weight:700; text-decoration:underline;">WhatsApp</a>
+              &nbsp;&nbsp;|&nbsp;&nbsp;
+              <a href="https://www.creditomexicano.com.mx/" target="_blank" style="color:#971B2E; font-weight:700; text-decoration:underline;">Sitio web</a>
+            </p>
+            <p style="margin:13px 0 0; color:#555555; font-size:14px; line-height:23px;">
+              Síguenos en
+              <a href="https://www.linkedin.com/company/uniondecreditomx/" target="_blank" style="color:#971B2E; font-weight:700; text-decoration:underline;">LinkedIn</a>,
+              <a href="https://www.facebook.com/uniondecreditomx/?locale=es_LA" target="_blank" style="color:#971B2E; font-weight:700; text-decoration:underline;">Facebook</a>
+              e
+              <a href="https://www.instagram.com/uniondecreditomx/" target="_blank" style="color:#971B2E; font-weight:700; text-decoration:underline;">Instagram</a>.
+            </p>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="mobile-padding" align="center" style="padding:25px 42px; background-color:#66666d;">
+            <p style="margin:0 0 9px; color:#ffffff; font-size:11px; line-height:17px;">Recibió este mensaje porque solicitó información en uno de nuestros canales.</p>
+            <p style="margin:0 0 9px; color:#ffffff; font-size:11px; line-height:17px;">
+              Consulta nuestro
+              <a href="https://www.creditomexicano.com.mx/legales" target="_blank" style="color:#ffffff; text-decoration:underline;">aviso de privacidad</a>.
+            </p>
+            <p style="margin:0; color:#ffffff; font-size:11px; line-height:17px;">
+              Si prefieres no recibir más comunicaciones,
+              <a href="{{URL_DE_DESUSCRIPCION_RD_STATION}}" target="_blank" style="color:#ffffff; text-decoration:underline;">desuscríbete aquí</a>.
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+  </center>
+</body>
+</html>
